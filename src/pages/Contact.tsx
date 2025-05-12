@@ -59,6 +59,7 @@ const Contact = () => {
     
     // Coordinates for Uzbekistan Olympic Committee
     const coords = [69.268182, 41.308289]; // Tashkent coordinates
+    // rekjtgkjjbf
     
     map.current = new mapboxgl.Map({
       container: mapContainer.current,
