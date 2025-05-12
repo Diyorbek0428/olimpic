@@ -225,7 +225,7 @@ const Hero = () => {
               onClick={() => setShowVideo(false)}
               aria-label="Yopish"
             >
-              ×
+              
             </button>
             <iframe
               width="100%"
