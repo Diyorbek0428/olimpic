@@ -106,7 +106,7 @@ const LegendAthletes = () => {
       id: 1,
       name: "Artur Taymazov",
       sport: "wrestling",
-      image: "public/picture/legand sportmen/Artur Šavqatovich Taymazov.jpg",
+      image: "/picture/legand sportmen/Artur Šavqatovich Taymazov.jpg",
       medals: {
         olympic: { gold: 3, silver: 1, bronze: 0 },
         world: { gold: 1, silver: 0, bronze: 1 }
@@ -129,7 +129,7 @@ const LegendAthletes = () => {
       id: 2,
       name: "Oksana Chusovitina",
       sport: "gymnastics",
-      image: "public/picture/legand sportmen/Oksana Aleksandrovna Chusovitina.jpg",
+      image: "/picture/legand sportmen/Oksana Aleksandrovna Chusovitina.jpg",
       medals: {
         olympic: { gold: 1, silver: 0, bronze: 0 },
         world: { gold: 1, silver: 2, bronze: 3 }
@@ -152,7 +152,7 @@ const LegendAthletes = () => {
       id: 3,
       name: "Anton Fokin",
       sport: "gymnastics",
-      image: "public/picture/legand sportmen/Anton Sergeyevich Fokin.jpg",
+      image: "/picture/legand sportmen/Anton Sergeyevich Fokin.jpg",
       medals: {
         olympic: { gold: 0, silver: 1, bronze: 0 },
         world: { gold: 0, silver: 1, bronze: 0 }
@@ -234,7 +234,7 @@ const LegendAthletes = () => {
       id: 7,
       name: "Ulugʻbek Rashitov ",
       sport: "taekvondo",
-      image: "public/picture/legand sportmen/Ulugʻbek Rashidjon oʻgʻli Rashitov.jpg",
+      image: "/picture/legand sportmen/Ulugʻbek Rashidjon oʻgʻli Rashitov.jpg",
       medals: {
         olympic: { gold: 2, silver: 0, bronze: 0 },
         world: { gold: 0, silver: 0, bronze: 0 }
@@ -273,7 +273,7 @@ const LegendAthletes = () => {
       id: 9,
       name: "Bakhodir Jalolov  ",
       sport: "boxing",
-      image: "public/picture/legand sportmen/Bakhodir Jalolov oʻgʻli Jalolov.avif",
+      image: "/picture/legand sportmen/Bakhodir Jalolov oʻgʻli Jalolov.avif",
       medals: {
         olympic: { gold: 2, silver: 0, bronze: 0 },
         world: { gold: 2, silver: 0, bronze: 1 }
@@ -335,7 +335,7 @@ const LegendAthletes = () => {
       id: 12,
       name: "Fazliddin Gaibnazarov",
       sport: "boxing",
-      image: "public/picture/legand sportmen/Fazliddin Marafon oʻgʻli Gaibnazarov.jpg",
+      image: "/picture/legand sportmen/Fazliddin Marafon oʻgʻli Gaibnazarov.jpg",
       medals: {
         olympic: { gold: 1, silver: 0, bronze: 0 },
         world: { gold: 0, silver: 1, bronze: 0 }
@@ -443,7 +443,7 @@ const LegendAthletes = () => {
       id: 18,
       name: "Elmurat Tasmuradov ",
       sport: "wrestling",
-      image: "public/picture/legand sportmen/Elmurat Tasmuradov.jpg",
+      image: "/picture/legand sportmen/Elmurat Tasmuradov.jpg",
       medals: {
         olympic: { gold: 0, silver: 1, bronze: 0 },
         world: { gold: 0, silver: 1, bronze: 2 }
@@ -463,7 +463,7 @@ const LegendAthletes = () => {
       id: 19,
       name: "Svetlana Osipova ",
       sport: "taekvondo",
-      image: "public/picture/legand sportmen/Svetlana Osipova.jpg",
+      image: "/picture/legand sportmen/Svetlana Osipova.jpg",
       medals: {
         olympic: { gold: 0, silver: 1, bronze: 0 },
         world: { gold: 1, silver: 1, bronze: 0 }

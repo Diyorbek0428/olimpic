@@ -13,10 +13,10 @@ const Hero = () => {
 
   // Background images for the hero section
   const heroBackgrounds = [
-    "public/picture/O‘zbekiston Respublikasi Prezidenti.jpg",
-    "public/picture/Olimpiya.jpg",
-    "public/picture/Qahramon.jpg",
-    "public/picture/Chigiryev0.jpg",
+    "/picture/O‘zbekiston Respublikasi Prezidenti.jpg",
+    "/picture/Olimpiya.jpg",
+    "/picture/Qahramon.jpg",
+    "/picture/Chigiryev0.jpg",
   ];
 
   // Latest news for hero headline

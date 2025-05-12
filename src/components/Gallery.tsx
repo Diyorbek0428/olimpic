@@ -20,7 +20,7 @@ const Gallery = () => {
     {
       id: 1,
       category: 'opening',
-      image: 'public/picture/galareya/Qahramon futbolchilarimiz tantanali kutib olindi.jpg',
+      image: '/picture/galareya/Qahramon futbolchilarimiz tantanali kutib olindi.jpg',
       title: {
         uz: 'Qahramon futbolchilarimiz tantanali kutib olindi',
         ru: 'Нашим героическим игрокам был оказан торжественный прием',
@@ -35,7 +35,7 @@ const Gallery = () => {
     {
       id: 2,
       category: 'opening',
-      image: 'public/picture/galareya/Jahon chempionati yoʻllanmasi sari katta qadam tashlangan oʻyindan galereya.jpg',
+      image: '/picture/galareya/Jahon chempionati yoʻllanmasi sari katta qadam tashlangan oʻyindan galereya.jpg',
       title: {
         uz: 'Jahon chempionati yoʻllanmasi sari katta qadam tashlangan oʻyindan galereya',
         ru: 'Фотогалерея с матча, который стал большим шагом на пути к квалификации на чемпионат мира',
@@ -50,7 +50,7 @@ const Gallery = () => {
     {
       id: 3,
       category: 'opening',
-      image: 'public/picture/galareya/Xarbinda oʻzbek sporti tarixiga muxrlangan suratlar.jpg',
+      image: '/picture/galareya/Xarbinda oʻzbek sporti tarixiga muxrlangan suratlar.jpg',
       title: {
         uz: 'Xarbinda oʻzbek sporti tarixiga muxrlangan suratlar',
         ru: 'Фотографии, запечатлевшиеся в истории узбекского спорта в Харбине',
@@ -65,7 +65,7 @@ const Gallery = () => {
     {
       id: 4,
       category: 'opening',
-      image: 'public/picture/galareya/Kun qahramonlarining chiqishidan yorqin suratlar.jpg',
+      image: '/picture/galareya/Kun qahramonlarining chiqishidan yorqin suratlar.jpg',
       title: {
         uz: 'Kun qahramonlarining chiqishidan yorqin suratlar',
         ru: 'Яркие фотографии с выступления юбиляров',
@@ -80,7 +80,7 @@ const Gallery = () => {
     {
       id: 5,
       category: 'opening',
-      image: 'public/picture/galareya/Xitoy lol qoldirishda davom etadi. Xarbin-2025 qishki Osiyo oʻyinlarining tantanali ochilish marosimidan yorqin suratlar.jpg',
+      image: '/picture/galareya/Xitoy lol qoldirishda davom etadi. Xarbin-2025 qishki Osiyo oʻyinlarining tantanali ochilish marosimidan yorqin suratlar.jpg',
       title: {
         uz: 'Xitoy lol qoldirishda davom etadi. Xarbin-2025 qishki Osiyo oʻyinlarining tantanali ochilish marosimidan yorqin surat',
         ru: 'Китай продолжает удивлять. Яркое фото с церемонии открытия зимних Азиатских игр 2025 года в Харбине',
@@ -95,7 +95,7 @@ const Gallery = () => {
     {
       id: 6,
       category: 'opening',
-      image: 'public/picture/galareya/Bu yilgi “Milliy sport mukofoti-2024” tantanali taqdirlash marosimi koʻtarinki ruhda tashkil etildi.jpg',
+      image: '/picture/galareya/Bu yilgi “Milliy sport mukofoti-2024” tantanali taqdirlash marosimi koʻtarinki ruhda tashkil etildi.jpg',
       title: {
         uz: 'Bu yilgi “Milliy sport mukofoti-2024” tantanali taqdirlash marosimi koʻtarinki ruhda tashkil etildi. ',
         ru: 'В этом году церемония вручения «Национальной спортивной премии-2024» прошла в атмосфере энтузиазма.',
@@ -110,7 +110,7 @@ const Gallery = () => {
     {
       id: 7,
       category: 'opening',
-      image: 'public/picture/galareya/Toshkent-2025 yoshlar Osiyo o‘yinlariga.jpg',
+      image: '/picture/galareya/Toshkent-2025 yoshlar Osiyo o‘yinlariga.jpg',
       title: {
         uz: 'Toshkent-2025 yoshlar Osiyo o‘yinlariga tayyorgarlik bo‘yicha Osiyo Olimpiya kengashi (OOK) Muvofiqlashtiruvchi qo‘mitasining ishchi guruhi yig‘ilishidan yorqin suratlar',
         ru: 'Основные моменты заседания рабочей группы Координационного комитета Олимпийского совета Азии (ОСА) по подготовке к проведению Азиатских юношеских игр «Ташкент-2025»',
@@ -125,7 +125,7 @@ const Gallery = () => {
     {
       id: 8,
       category: 'opening',
-      image: 'public/picture/galareya/Terma jamoamiz hisobiga oʻta muhim 3.jpg',
+      image: '/picture/galareya/Terma jamoamiz hisobiga oʻta muhim 3.jpg',
       title: {
         uz: 'Terma jamoamiz hisobiga oʻta muhim 3 ochko qoʻshib qoʻyilgan, ob-havo sovuq boʻlsa-da, maydondagi harorat juda ham yuqori boʻlgan oʻyindan suratlar  ',
         ru: 'Фотографии с матча, в котором наша сборная набрала решающие 3 очка. Несмотря на холодную погоду, температура на поле была очень высокой.',
@@ -140,7 +140,7 @@ const Gallery = () => {
     {
       id: 9,
       category: 'opening',
-      image: 'public/picture/galareya/Samarqandda baydarka.jpg',
+      image: '/picture/galareya/Samarqandda baydarka.jpg',
       title: {
         uz: 'Samarqandda baydarka va kanoeda eshkak eshish bo’yicha jahon chempionatining bugungi kun dasturidan o’rin olgan bellashuvlari nihoyasiga yetdi. ',
         ru: 'Завершились соревнования сегодняшней программы чемпионата мира по гребле на байдарках и каноэ в Самарканде. ',
@@ -155,7 +155,7 @@ const Gallery = () => {
     {
       id: 10,
       category: 'opening',
-      image: 'public/picture/galareya/Parij-2024 XXXIII yozgi Olimpiya.jpg',
+      image: '/picture/galareya/Parij-2024 XXXIII yozgi Olimpiya.jpg',
       title: {
         uz: 'Parij-2024 XXXIII yozgi Olimpiya o’yinlarining tantanali yopilish marosimidan yorqin suratlar',
         ru: 'Яркие фотографии с церемонии закрытия XXXIII летних Олимпийских игр в Париже-2024',
@@ -170,7 +170,7 @@ const Gallery = () => {
     {
       id: 11,
       category: 'opening',
-      image: 'public/picture/galareya/Kechagi kun qahramonlaridan.jpg',
+      image: '/picture/galareya/Kechagi kun qahramonlaridan.jpg',
       title: {
         uz: 'Kechagi kun qahramonlaridan biri Razambek Jamalovning taqdirlash marosimidan yorqin suratlar',
         ru: 'Яркие фотографии с церемонии награждения Разамбека Джамалова, одного из героев вчерашнего дня',
@@ -185,7 +185,7 @@ const Gallery = () => {
     {
       id: 12,
       category: 'opening',
-      image: 'public/picture/galareya/Razambek Jamalov delegatsiyamiz.jpg',
+      image: '/picture/galareya/Razambek Jamalov delegatsiyamiz.jpg',
       title: {
         uz: 'Razambek Jamalov delegatsiyamiz hisobiga oltinchi oltin medalni taqdim etgan finalning yorqin lahzalari',
         ru: 'Яркие моменты финала, когда Разамбек Джамалов принес нашей делегации шестую золотую медаль.',
@@ -200,7 +200,7 @@ const Gallery = () => {
     {
       id: 13,
       category: 'opening',
-      image: 'public/picture/galareya/Qahramon futbolchilarimiz tantanali kutib olindi.jpg',
+      image: '/picture/galareya/Qahramon futbolchilarimiz tantanali kutib olindi.jpg',
       title: {
         uz: 'Buenos-Ayres-2018 yozgi o’smirlar Olimpiya o’yinlari chempioni endi kattalar o’rtasida ham 4 yillikning enf nufuzli musobaqasida oltin medalga sazovor bo’ldi. ',
         ru: 'Чемпион летних юношеских Олимпийских игр 2018 года в Буэнос-Айресе завоевал золотую медаль на престижном соревновании среди взрослых в возрасте 4 лет. ',
@@ -215,7 +215,7 @@ const Gallery = () => {
     {
       id: 14,
       category: 'opening',
-      image: 'public/picture/galareya/“Oltin kecha”ga.jpg',
+      image: '/picture/galareya/“Oltin kecha”ga.jpg',
       title: {
         uz: '“Oltin kecha”ga o’zgacha fayz bergan Bahodir Jalolovning final jangi, har bir zarbalari yurtdoshlarimizni katta hayajonda ushlab turdi. ',
         ru: '“Финальный бой Баходыра Джалолова, придавший особую изюминку «Золотой ночи», и каждый нанесенный им удар держали наших соотечественников в большом волнении.',
@@ -230,7 +230,7 @@ const Gallery = () => {
     {
       id: 15,
       category: 'opening',
-      image: 'public/picture/galareya/Parij-2024 yozgi Olimpiya.jpg',
+      image: '/picture/galareya/Parij-2024 yozgi Olimpiya.jpg',
       title: {
         uz: 'Parij-2024 yozgi Olimpiya o’yinlarining kumush medali sohibi Svetlana Osipova shohsupada',
         ru: 'Серебряный призер летних Олимпийских игр 2024 года в Париже Светлана Осипова на пьедестале почета',
@@ -245,7 +245,7 @@ const Gallery = () => {
     {
       id: 16,
       category: 'opening',
-      image: 'public/picture/galareya/“Big Uzbek” endi ikki karra.jpg',
+      image: '/picture/galareya/“Big Uzbek” endi ikki karra.jpg',
       title: {
         uz: '“Big Uzbek” endi ikki karra Olimpiya o’yinlari chempioni.',
         ru: '«Большой Узбек» теперь двукратный олимпийский чемпион.',
@@ -260,7 +260,7 @@ const Gallery = () => {
     {
       id: 17,
       category: 'opening',
-      image: 'public/picture/galareya/Erkin kurashchimiz.jpg',
+      image: '/picture/galareya/Erkin kurashchimiz.jpg',
       title: {
         uz: 'Erkin kurashchimiz, Parij-2024 yozgi Olimpiya o’yinlari sovrindori G’ulomjon Abdullayev shohsupada',
         ru: 'Наш борец вольного стиля, призер летних Олимпийских игр 2024 года в Париже Гуломжон Абдуллаев на пьедестале почета',
@@ -275,7 +275,7 @@ const Gallery = () => {
     {
       id: 18,
       category: 'opening',
-      image: 'public/picture/galareya/Kun qahramonlaridan.jpg',
+      image: '/picture/galareya/Kun qahramonlaridan.jpg',
       title: {
         uz: 'Kun qahramonlaridan biri, jahon chempioni Asadxo’ja Mo’ydinxo’jayev o’z titullari orasiga Olimpiada chempionligini ham qo’shib qo’ydi',
         ru: 'Один из героев дня, чемпион мира Асадходжа Мойдинходжаев, добавил к своим титулам олимпийское чемпионство.',
@@ -290,7 +290,7 @@ const Gallery = () => {
     {
       id: 19,
       category: 'opening',
-      image: 'public/picture/galareya/Ketma-ket ikkita oltin.jpg',
+      image: '/picture/galareya/Ketma-ket ikkita oltin.jpg',
       title: {
         uz: 'Ketma-ket ikkita oltin medal bilan delegatsiyamiz umumjamoa hisobida yanada yuqori o\'ringa ko\'tarildi.',
         ru: 'Завоевав две золотые медали подряд, наша делегация поднялась на более высокое место в общекомандном зачете.',
@@ -304,7 +304,7 @@ const Gallery = () => {
     }, {
       id: 20,
       category: 'opening',
-      image: 'public/picture/galareya/G’ulomjon Abdullayevning.jpg',
+      image: '/picture/galareya/G’ulomjon Abdullayevning.jpg',
       title: {
         uz: 'G’ulomjon Abdullayevning bronza medali uchun bellashuvda qirg’izistonlik raqibini mag’lub etgan bahsdan yorqin surat.',
         ru: 'Яркие фотографии с матча за бронзовую медаль Гуломжона Абдуллаева, в котором он победил своего соперника из Кыргызстана.',
@@ -318,7 +318,7 @@ const Gallery = () => {
     }, {
       id: 21,
       category: 'opening',
-      image: 'public/picture/galareya/Akbar Jo’rayev bugun.jpg',
+      image: '/picture/galareya/Akbar Jo’rayev bugun.jpg',
       title: {
         uz: 'Akbar Jo’rayev bugun bor kuch va imkoniyatlarini ishga solib, delegatsiyamizga Parij-2024 yozgi Olimpiya o’yinlarining dastlabki kumush medalini taqdim qildi.',
         ru: 'Акбар Джураев сегодня приложил все свои силы и возможности, чтобы вручить нашей делегации первую серебряную медаль летних Олимпийских игр 2024 года в Париже.',
@@ -332,7 +332,7 @@ const Gallery = () => {
     }, {
       id: 22,
       category: 'opening',
-      image: 'public/picture/galareya/Muxlislarning.jpg',
+      image: '/picture/galareya/Muxlislarning.jpg',
       title: {
         uz: 'Muxlislarning tinimsiz bosimiga qaramay Hasanboy Do’smatov aniq va kuchli zarbalari, chaqqon harakatlari bilan tarixiy finalni o’z foydasiga hal qildi.',
         ru: 'Несмотря на неослабевающее давление болельщиков, Хасанбой Дусматов одержал победу в историческом финале благодаря своим четким и сильным ударам и ловким движениям.',

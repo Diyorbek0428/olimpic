@@ -92,7 +92,7 @@ const Committee = () => {
           <TabsContent value="about" className="space-y-6">
             <Card>
               <CardHeader>
-                <img src="public/picture/qomita/qomita.jpg" alt="Qo'mita" />
+                <img src="/picture/qomita/qomita.jpg" alt="Qo'mita" />
 
                 <CardTitle>
                   {language === 'uz' ? "O'zbekiston Milliy Olimpiya Qo'mitasi" :

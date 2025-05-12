@@ -202,11 +202,11 @@ const NewsPage = () => {
       category: "tabletennis",
       date: "2025-04-29",
       image: [
-        "public/picture/Kun tarixi.jpg","public/picture/Kun tarixi1.jpg",
-        "public/picture/Kun tarixi2.jpg","public/picture/Kun tarixi3.jpg",
-        "public/picture/Kun tarixi4.jpg","public/picture/Kun tarixi5.jpg",
-        "public/picture/Kun tarixi6.jpg","public/picture/Kun tarixi7.jpg",
-        "public/picture/Kun tarixi8.jpg","public/picture/Kun tarixi9.jpg"
+        "/picture/Kun tarixi.jpg","/picture/Kun tarixi1.jpg",
+        "/picture/Kun tarixi2.jpg","/picture/Kun tarixi3.jpg",
+        "/picture/Kun tarixi4.jpg","/picture/Kun tarixi5.jpg",
+        "/picture/Kun tarixi6.jpg","/picture/Kun tarixi7.jpg",
+        "/picture/Kun tarixi8.jpg","/picture/Kun tarixi9.jpg"
       ],
       excerpt: {
         uz: "Roppa-rosa 1 yil avval futbol boʻyicha Oʻzbekiston olimpiya terma jamoasi U23 Osiyo kubogining yarim finalida Indoneziya ustidan 2:0 hisobida gʻalaba qozonib, final va tarixiy Parij-2024 yozgi Olimpiya oʻyinlari yoʻllanmasini qoʻlga kiritgan edi.",
@@ -224,7 +224,7 @@ const NewsPage = () => {
       category: "tabletennis",
       date: "2025-04-29",
       image: [
-        "public/picture/Sport.jpg",
+        "/picture/Sport.jpg",
       ],
       excerpt: {
         uz: "Misr poytaxtida sport gimnastikasi boʻyicha Jahon kubogi bosqichi nihoyasiga yetdi. Quvonarlisi, unda ishtirok etgan Oʻzbekiston terma jamoasi 2 ta bronza medaliga sazovor boʻldi.",
@@ -242,7 +242,7 @@ const NewsPage = () => {
       category: "tabletennis",
       date: "2025-04-28",
       image: [
-        "public/picture/Olimpiya.jpg",
+        "/picture/Olimpiya.jpg",
       ],
       excerpt: {
         uz: "World Aquatics Prezidenti, Osiyo Olimpiya kengashi (OOK) Bosh direktori Husayn Al Musallam, Milliy Olimpiya qo‘mitalari assotsiatsiyasi birinchi (MOQA) vitse-prezidenti, Qatar MOQ Prezidenti Shayx Joaan Ol Soni...",
@@ -260,7 +260,7 @@ const NewsPage = () => {
       category: "tabletennis",
       date: "2025-04-28",
       image: [
-        "public/picture/Duatlon.jpg", "public/picture/Duatlon1.jpg", "public/picture/Duatlon2.jpg",
+        "/picture/Duatlon.jpg", "/picture/Duatlon1.jpg", "/picture/Duatlon2.jpg",
       ],
       excerpt: {
         uz: "Poytaxtimizdagi “Yangi O‘zbekiston” majmuasida duatlon bo‘yicha O‘zbekiston chempionati o‘tkazildi.",
@@ -278,8 +278,8 @@ const NewsPage = () => {
       category: "tabletennis",
       date: "2025-04-28",
       image: [
-        "public/picture/Toshkentga.jpg", "public/picture/Toshkentga1.jpg",
-        "public/picture/Toshkentga2.jpg",   "public/picture/Toshkentga3.jpg", "public/picture/Toshkentga4.jpg",
+        "/picture/Toshkentga.jpg", "/picture/Toshkentga1.jpg",
+        "/picture/Toshkentga2.jpg", "/picture/Toshkentga3.jpg", "/picture/Toshkentga4.jpg",
       ],
       excerpt: {
         uz: "Bugun Islom Karimov nomidagi Toshkent xalqaro aeroportiga World Aquatics prezidenti, Osiyo Olimpiya kengashi (OOK) Bosh direktori Husayn Al Musallam, Milliy Olimpiya qoʻmitalari...",
@@ -297,7 +297,7 @@ const NewsPage = () => {
       category: "tabletennis",
       date: "2025-04-28",
       image: [
-        "public/picture/Tailandning.jpg"
+        "/picture/Tailandning.jpg"
       ],
       excerpt: {
         uz: "Tailandning Bangkok shahrida dzyudo boʻyicha Osiyo chempionati oʻz yakuniga yetdi. Musobaqaning soʻnggi kunida aralash jamoaviy dastur boʻyicha gʻolib va sovrindorlar aniqlab olindi.",
@@ -315,7 +315,7 @@ const NewsPage = () => {
       category: "tabletennis",
       date: "2025-04-28",
       image: [
-        "public/picture/Sport vazirligi.jpg","public/picture/Sport vazirligi1.jpg","public/picture/Sport vazirligi2.jpg","public/picture/Sport vazirligi3.jpg","public/picture/Sport vazirligi4.jpg","public/picture/Sport vazirligi5.jpg",
+        "/picture/Sport vazirligi.jpg","/picture/Sport vazirligi1.jpg","/picture/Sport vazirligi2.jpg","/picture/Sport vazirligi3.jpg","/picture/Sport vazirligi4.jpg","/picture/Sport vazirligi5.jpg",
       ],
       excerpt: {
         uz: "Poytaxtimizda aholi, ayniqsa, yoshlar oʻrtasida sogʻlom turmush tarzini targʻib qilish va ularni ommaviy sportga keng jalb etish maqsadida maktab oʻquvchilari uchun maxsus sport sinovlari oʻtkazilmoqda.",
@@ -333,7 +333,7 @@ const NewsPage = () => {
       category: "tabletennis",
       date: "2025-04-28",
       image: [
-        "public/picture/Gimnastikachilarimiz.jpg","public/picture/Gimnastikachilarimiz 1.jpg","public/picture/Gimnastikachilarimiz 2.jpg",
+        "/picture/Gimnastikachilarimiz.jpg","/picture/Gimnastikachilarimiz 1.jpg","/picture/Gimnastikachilarimiz 2.jpg",
       ],
       excerpt: {
         uz: "Toshkent mezbonlik qilgan badiiy gimnastika boʻyicha Jahon kubogining uchinchi bosqichi yakunlandi. ",
@@ -351,7 +351,7 @@ const NewsPage = () => {
       category: "tabletennis",
       date: "2025-04-20",
       image: [
-       "public/picture/Oʻzbekiston U17.jpg"
+       "/picture/Oʻzbekiston U17.jpg"
       ],
       excerpt: {
         uz: "Saudiya Arabistonida futbol boʻyicha U17 yosh toifasidagi Osiyo kubogi oʻz yakuniga yetdi.",
@@ -368,9 +368,9 @@ const NewsPage = () => {
       category: "tabletennis",
       date: "2025-04-20",
       image: [
-       "public/picture/Kun dayjesti.jpg",
-        "public/picture/Kun dayjesti1.jpg",
-        "public/picture/Kun dayjesti2.jpg","public/picture/Kun dayjesti3.jpg",
+       "/picture/Kun dayjesti.jpg",
+        "/picture/Kun dayjesti1.jpg",
+        "/picture/Kun dayjesti2.jpg","/picture/Kun dayjesti3.jpg",
       ],
       excerpt: {
         uz: "Saudiya Arabistonida futbol boʻyicha U17 yosh toifasidagi Osiyo chempionati oʻz yakuniga yetdi.",
@@ -387,7 +387,7 @@ const NewsPage = () => {
       category: "tabletennis",
       date: "2025-04-20",
       image: [
-      "public/picture/Shavkat Mirziyoyevning.jpg" ,
+      "/picture/Shavkat Mirziyoyevning.jpg" ,
       ],
       excerpt: {
         uz: "Aziz farzandlarim!",
@@ -404,8 +404,8 @@ const NewsPage = () => {
       category: "tabletennis",
       date: "2025-04-20",
       image: [
-        
-        "public/picture/Toshkent badiiy.jpg"
+
+        "/picture/Toshkent badiiy.jpg"
       ],
       excerpt: {
         uz: "25–27-aprel kunlari poytaxtimiz Toshkent yana bir yirik musobaqa — badiiy gimnastika boʻyicha Jahon kubogining navbatdagi bosqichiga mezbonlik qiladi. Bu yilgi bahslarda 26 mamlakatdan 100 nafardan ortiq sportchi medallar uchun bahs olib boradi.",
@@ -423,7 +423,7 @@ const NewsPage = () => {
       category: "tabletennis",
       date: "2025-04-21",
       image: [
-      "public/picture/Futbol.jpg"
+      "/picture/Futbol.jpg"
       ],
       excerpt: {
         uz: "Futbol bo‘yicha o‘n yetti yoshgacha bo‘lgan o‘smirlar o‘rtasidagi Osiyo kubogi o‘yinlari g‘oliblari va ishtirokchilarini mukofotlash to‘g‘risida O‘zbekiston Respublikasi Prezidentining Farmoni",
@@ -440,7 +440,7 @@ const NewsPage = () => {
       category: "tabletennis",
       date: "2025-04-21",
       image: [
-       "public/picture/Qahramon0.jpg" 
+       "/picture/Qahramon0.jpg"
        ],
       excerpt: {
         uz: "Saudiya Arabistoni maydonlarida oʻtgan futbol boʻyicha U17 Osiyo kubogida mardonavor ishtirok etib, chempionlikni qoʻlga kiritgan Oʻzbekiston oʻsmirlar terma jamoasi diyorimizga qaytib keldi.",
@@ -458,7 +458,7 @@ const NewsPage = () => {
       category: "tabletennis",
       date: "2025-04-22",
       image: [
-      "public/picture/g‘alabalarini.jpg","public/picture/g‘alabalarini1.jpg","public/picture/g‘alabalarini2.jpg", 
+      "/picture/g‘alabalarini.jpg","/picture/g‘alabalarini1.jpg","/picture/g‘alabalarini2.jpg",
       ],
       excerpt: {
         uz: "Prezident Shavkat Mirziyoyev sportchilarimizning yutuqlarini alohida qiziqish va eʼtibor bilan kuzatib boryaptilar. Quvonarlisi, aprel oyida mamlakatimizning sport sohasidagi muvaffaqiyatlari futbol bilangina cheklanib qolmadi.",
@@ -475,8 +475,8 @@ const NewsPage = () => {
       category: "tabletennis",
       date: "2025-04-22",
       image: [
-       "public/picture/Continental.jpg", "public/picture/Continental1.jpg",
-        "public/picture/Continental2.jpg","public/picture/Continental3.jpg",
+       "/picture/Continental.jpg", "/picture/Continental1.jpg",
+        "/picture/Continental2.jpg","/picture/Continental3.jpg",
         ],
       excerpt: {
         uz: "Boks boʻyicha jahon chempioni Ruslan Abdullayev 19-aprel kuni AQShning Kaliforniya shtatida tashkil etilgan...",
@@ -493,7 +493,7 @@ const NewsPage = () => {
       category: "tabletennis",
       date: "2025-04-22",
       image: [
-      "public/picture/Bilasizmi.jpg" 
+      "/picture/Bilasizmi.jpg"
       ],
       excerpt: {
         uz: "Eng uzoq davom etgan Olimpiya oʻyinlari 1900-yil Parij shahrida oʻtkazilgan.",
@@ -510,7 +510,7 @@ const NewsPage = () => {
       category: "tabletennis",
       date: "2025-04-22",
       image: [
-      " public/picture/Chigiryev0.jpg", 
+      "/picture/Chigiryev0.jpg",
       ],
       excerpt: {
         uz: "Dmitriy Chigiryev va Yekaterina Geynish Milan-Kortina-2026 qishki Olimpiadasiga yo‘llanma qo‘lga kiritishdi.",

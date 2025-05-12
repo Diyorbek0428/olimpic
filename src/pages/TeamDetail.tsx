@@ -81,7 +81,7 @@ const TeamDetail = () => {
         age: 42,
         matches:8,
         medals: 5,
-        image: "public/picture/team/Toʻlqin Qilichev.webp",
+        image: "/picture/team/Toʻlqin Qilichev.webp",
       },
       players: [
         { name: "Bektemir Melikuziev", position: "76 kg", age: 29, matches: 16, medals: 2, },
@@ -113,7 +113,7 @@ const TeamDetail = () => {
         age: 49,
         matches: 38,
         medals: 8,
-        image: "public/picture/team/Alexei Budolin.jpg"
+        image: "/picture/team/Alexei Budolin.jpg"
       },
       players: [
         { name: "Davlat Bobonov", position: "90 kg", age: 27, matches: 49, medals: 30,  },
@@ -140,7 +140,7 @@ const TeamDetail = () => {
         age: 56,
         matches: 42,
         medals: 7,
-        image: "public/picture/team/Andrey Sokolov.webp"
+        image: "/picture/team/Andrey Sokolov.webp"
       },
       players: [
         { name: "Ruslan Nurudinov", position: "105 kg", age: 	33, matches: 18, medals: 6, image: "https://images.unsplash.com/photo-1517838277536-f5f99be501cd?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80" },

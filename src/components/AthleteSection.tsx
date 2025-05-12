@@ -47,7 +47,7 @@ const AthleteSection = () => {
       sport: "Erkin kurash",
       category: "120/125 kg",
       achievement: "2004 yil Oltin Afina Olimpiadasi",
-      image: "public/picture/legand sportmen/Artur Šavqatovich Taymazov.jpg"
+      image: "/picture/legand sportmen/Artur Šavqatovich Taymazov.jpg"
     },
     {
       id: 2,
@@ -55,7 +55,7 @@ const AthleteSection = () => {
       sport: "Gimnastika",
       category: "",
       achievement: "2003 yil	Oltin JCH, boʻshliqdan sakrash",
-      image: "public/picture/legand sportmen/Oksana Aleksandrovna Chusovitina.jpg"
+      image: "/picture/legand sportmen/Oksana Aleksandrovna Chusovitina.jpg"
     },
     {
       id: 3,
@@ -63,7 +63,7 @@ const AthleteSection = () => {
       sport: "Artistik gimnastika, parallel barlar",
       category: "2008 yil	Pekin Olimpiadasi,2007 yil	JCH, Shtutgart",
       achievement: "2 Kumush",
-      image: "public/picture/legand sportmen/Anton Sergeyevich Fokin.jpg"
+      image: "/picture/legand sportmen/Anton Sergeyevich Fokin.jpg"
     },
     {
       id: 4,
@@ -71,7 +71,7 @@ const AthleteSection = () => {
       sport: "Og'ir atletika",
       category: "105 kg",
       achievement: "Olimpiya va JCH medallari 2 Oltin ",
-      image: "public/picture/legand sportmen/Ruslan Qimmatov oʻgʻli Nurudinov.jpg"
+      image: "/picture/legand sportmen/Ruslan Qimmatov oʻgʻli Nurudinov.jpg"
     }
   ];
 
