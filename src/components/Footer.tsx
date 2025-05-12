@@ -1,22 +1,21 @@
-
 import { Link } from 'react-router-dom';
-
 const Footer = () => {
   return (
     <footer className="bg-darkBg text-white">
       <div className="container mx-auto px-4 py-12">
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8">
+          {/* Logo va qisqacha ma'lumot */}
           <div>
             <div className="flex items-center space-x-2 mb-6">
               <div className="w-10 h-10 rounded-full bg-primary flex items-center justify-center">
                 <span className="text-white font-bold">MOQ</span>
               </div>
-              <span className="text-xl font-bold">O'zbekiston MOQ</span>
+              <span className="text-lg sm:text-xl font-bold">O'zbekiston MOQ</span>
             </div>
-            <p className="text-gray-400 mb-6">
+            <p className="text-gray-400 mb-6 text-sm sm:text-base">
               O'zbekiston Milliy Olimpiya Qo'mitasi 1992-yilda tashkil etilgan va 1993-yilda Xalqaro Olimpiya Qo'mitasi tomonidan tan olingan.
             </p>
-            <p className="text-gray-400 mb-6">
+            <p className="text-gray-400 mb-6 text-sm sm:text-base">
              Bizning ichtimoiy tarmoqlarimiz:
             </p>
             <div className="flex space-x-4">
@@ -43,9 +42,9 @@ const Footer = () => {
             </div>
           </div>
           
-          <div>
+           <div>
             <h3 className="text-lg font-semibold mb-4">Asosiy havolalar</h3>
-            <ul className="space-y-3">
+            <ul className="space-y-3 text-sm sm:text-base">
               <li><Link to="/" className="text-gray-400 hover:text-white transition-colors">Bosh sahifa</Link></li>
               <li><Link to="/qomita" className="text-gray-400 hover:text-white transition-colors">Qo'mita haqida</Link></li>
               <li><Link to="/yangiliklar" className="text-gray-400 hover:text-white transition-colors">Yangiliklar</Link></li>
@@ -55,45 +54,17 @@ const Footer = () => {
             </ul>
           </div>
 <div>
-  <h3 className="text-lg font-semibold mb-4">Sport turlari</h3>
-  <ul className="space-y-3">
-    <li>
-      <Link to="/sportchilar?type=boxing" className="text-gray-400 hover:text-white transition-colors">
-        Boks
-      </Link>
-    </li>
-    <li>
-      <Link to="/sportchilar?type=judo" className="text-gray-400 hover:text-white transition-colors">
-        Dzyudo
-      </Link>
-    </li>
-    <li>
-      <Link to="/sportchilar?type=wrestling" className="text-gray-400 hover:text-white transition-colors">
-        Kurash
-      </Link>
-    </li>
-    <li>
-      <Link to="/sportchilar?type=athletics" className="text-gray-400 hover:text-white transition-colors">
-        Og'ir atletika
-      </Link>
-    </li>
-    <li>
-      <Link to="/sportchilar?type=gymnastics" className="text-gray-400 hover:text-white transition-colors">
-        Gimnastika
-      </Link>
-    </li>
-    <li>
-      <Link to="/sportchilar?type=taekvondo" className="text-gray-400 hover:text-white transition-colors">
-        Taekvondo
-      </Link>
-    </li>
-    <li>
-      <Link to="/sportchilar" className="text-gray-400 hover:text-white transition-colors">
-        Barcha sport turlari
-      </Link>
-    </li>
-  </ul>
-</div>
+            <h3 className="text-lg font-semibold mb-4">Sport turlari</h3>
+            <ul className="space-y-3 text-sm sm:text-base">
+              <li><Link to="/sportchilar?type=boxing" className="text-gray-400 hover:text-white transition-colors">Boks</Link></li>
+              <li><Link to="/sportchilar?type=judo" className="text-gray-400 hover:text-white transition-colors">Dzyudo</Link></li>
+              <li><Link to="/sportchilar?type=wrestling" className="text-gray-400 hover:text-white transition-colors">Kurash</Link></li>
+              <li><Link to="/sportchilar?type=athletics" className="text-gray-400 hover:text-white transition-colors">Og'ir atletika</Link></li>
+              <li><Link to="/sportchilar?type=gymnastics" className="text-gray-400 hover:text-white transition-colors">Gimnastika</Link></li>
+              <li><Link to="/sportchilar?type=taekvondo" className="text-gray-400 hover:text-white transition-colors">Taekvondo</Link></li>
+              <li><Link to="/sportchilar" className="text-gray-400 hover:text-white transition-colors">Barcha sport turlari</Link></li>
+            </ul>
+          </div>
           <div>
             <h3 className="text-lg font-semibold mb-4">Aloqa ma'lumotlari</h3>
             <ul className="space-y-3">

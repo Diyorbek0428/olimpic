@@ -172,7 +172,7 @@ const LegendAthletes = () => {
       id: 4,
       name: "Ruslan Nurudinov",
       sport: "athletics",
-      image: "public/picture/legand sportmen/Ruslan Qimmatov oʻgʻli Nurudinov.jpg",
+      image: "/picture/legand sportmen/Ruslan Qimmatov oʻgʻli Nurudinov.jpg",
       medals: {
         olympic: { gold: 1, silver: 0, bronze: 0 },
         world: { gold: 1, silver: 0, bronze: 0 }
@@ -192,7 +192,7 @@ const LegendAthletes = () => {
       id: 5,
       name: "Rishod Sobirov ",
       sport: "judo",
-      image: "public/picture/legand sportmen/Rishod Rashidovich Sobirov.jpg",
+      image: "/picture/legand sportmen/Rishod Rashidovich Sobirov.jpg",
       medals: {
         olympic: { gold: 0, silver: 0, bronze: 3 },
         world: { gold: 2, silver: 0, bronze: 1 }
@@ -214,7 +214,7 @@ const LegendAthletes = () => {
       id: 6,
       name: "Davlat Bobonov",
       sport: "judo",
-      image: "public/picture/legand sportmen/Davlat Bobonov.jpg",
+      image: "/picture/legand sportmen/Davlat Bobonov.jpg",
       medals: {
         olympic: { gold: 0, silver: 0, bronze: 1 },
         world: { gold: 0, silver: 1, bronze: 0 }
@@ -253,7 +253,7 @@ const LegendAthletes = () => {
       id: 8,
       name: "Akbar Djurayev ",
       sport: "athletics",
-      image: "public/picture/legand sportmen/Akbar (Abdurashid) Djuraev (Juraev).jpg",
+      image: "/picture/legand sportmen/Akbar (Abdurashid) Djuraev (Juraev).jpg",
       medals: {
         olympic: { gold: 1, silver: 0, bronze: 0 },
         world: { gold: 1, silver: 0, bronze: 0 }
@@ -295,7 +295,7 @@ const LegendAthletes = () => {
       id: 10,
       name: "Shakhram Giyasov ",
       sport: "boxing",
-      image: "public/picture/legand sportmen/Shakhram Dzhavlonovich Giyasov.jpg",
+      image: "/picture/legand sportmen/Shakhram Dzhavlonovich Giyasov.jpg",
       medals: {
         olympic: { gold: 0, silver: 1, bronze: 0 },
         world: { gold: 1, silver: 0, bronze: 0 }
@@ -315,7 +315,7 @@ const LegendAthletes = () => {
       id: 11,
       name: "Shakhobidin Zoirov  ",
       sport: "boxing",
-      image: "public/picture/legand sportmen/Shakhobidin Zoirov.jpg",
+      image: "/picture/legand sportmen/Shakhobidin Zoirov.jpg",
       medals: {
         olympic: { gold: 1, silver: 0, bronze: 0 },
         world: { gold: 1, silver: 0, bronze: 0 }
@@ -354,7 +354,7 @@ const LegendAthletes = () => {
       id: 13,
       name: "Ekaterina Khilko  ",
       sport: "gymnastics",
-      image: "public/picture/legand sportmen/Ekaterina Khilko (Trampolin gimnastika).jpg",
+      image: "/picture/legand sportmen/Ekaterina Khilko (Trampolin gimnastika).jpg",
       medals: {
         olympic: { gold: 0, silver: 1, bronze: 0 },
         world: { gold: 0, silver: 0, bronze: 0 }
@@ -372,7 +372,7 @@ const LegendAthletes = () => {
       id: 14,
       name: "Abdullo Tangriev  ",
       sport: "judo",
-      image: "public/picture/legand sportmen/Abdullo Tangriev.jpg",
+      image: "/picture/legand sportmen/Abdullo Tangriev.jpg",
       medals: {
         olympic: { gold: 0, silver: 1, bronze: 0 },
         world: { gold: 0, silver: 0, bronze: 0 }
@@ -389,7 +389,7 @@ const LegendAthletes = () => {
       id: 15,
       name: "Diyorbek Urozboev ",
       sport: "judo",
-      image: "public/picture/legand sportmen/Diyorbek Urozboev.jpg",
+      image: "/picture/legand sportmen/Diyorbek Urozboev.jpg",
       medals: {
         olympic: { gold: 0, silver: 1, bronze: 0 },
         world: { gold: 0, silver: 0, bronze: 0 }
@@ -407,7 +407,7 @@ const LegendAthletes = () => {
       id: 16,
       name: "Diyora Keldiyorova  ",
       sport: "judo",
-      image: "public/picture/legand sportmen/Diyora Keldiyorova.webp",
+      image: "/picture/legand sportmen/Diyora Keldiyorova.webp",
       medals: {
         olympic: { gold: 1, silver: 0, bronze: 0 },
         world: { gold: 0, silver: 0, bronze: 0 }
@@ -426,7 +426,7 @@ const LegendAthletes = () => {
       id: 17,
       name: "Bekzod Abdurakhmonov  ",
       sport: "wrestling",
-      image: "public/picture/legand sportmen/Bekzod Abdurakhmonov.jpg",
+      image: "/picture/legand sportmen/Bekzod Abdurakhmonov.jpg",
       medals: {
         olympic: { gold: 0, silver: 1, bronze: 0 },
         world: { gold: 0, silver: 0, bronze: 0 }
@@ -482,7 +482,7 @@ const LegendAthletes = () => {
       id: 20,
       name: "Mirazizbek Mirzakhalilov ",
       sport: "boxing",
-      image: "public/picture/legand sportmen/Mirazizbek Mirzakhalilov.jpg",
+      image: "/picture/legand sportmen/Mirazizbek Mirzakhalilov.jpg",
           medals: {
         olympic: { gold: 0, silver: 0, bronze: 0 },
         world: { gold: 1, silver: 0, bronze: 0 }
@@ -501,7 +501,7 @@ const LegendAthletes = () => {
       id: 21,
       name: "Muzaffarbek Turoboyev  ",
       sport: "judo",
-      image: "public/picture/legand sportmen/Muzaffarbek Turoboyev.jpg",
+      image: "/picture/legand sportmen/Muzaffarbek Turoboyev.jpg",
       medals: {
         olympic: { gold: 0, silver: 1, bronze: 0 },
         world: { gold: 1, silver: 0, bronze: 1 }
@@ -521,7 +521,7 @@ const LegendAthletes = () => {
       id: 22,
       name: "Gulomjon Abdullaev  ",
       sport: "wrestling",
-      image: "public/picture/legand sportmen/Gulomjon Abdullaev.jpg",
+      image: "/picture/legand sportmen/Gulomjon Abdullaev.jpg",
       medals: {
         olympic: { gold: 0, silver: 1, bronze: 0 },
         world: { gold: 0, silver: 0, bronze: 0 }
@@ -539,7 +539,7 @@ const LegendAthletes = () => {
       id: 23,
       name: "Hasanboy Dusmatov",
       sport: "boxing",
-      image: "public/picture/legand sportmen/Hasanboy Dusmatov.jpg",
+      image: "/picture/legand sportmen/Hasanboy Dusmatov.jpg",
       medals: {
         olympic: { gold: 1, silver: 0, bronze: 0 },
         world: { gold: 1, silver: 0, bronze: 0 }
@@ -558,7 +558,7 @@ const LegendAthletes = () => {
       id: 24,
       name: "Bektemir Melikuziev  ",
       sport: "boxing",
-      image: "public/picture/legand sportmen/Bektemir Melikuziev.jpg",
+      image: "/picture/legand sportmen/Bektemir Melikuziev.jpg",
       medals: {
         olympic: { gold: 0, silver: 1, bronze: 0 },
         world: { gold: 0, silver: 0, bronze: 0 }
@@ -577,7 +577,7 @@ const LegendAthletes = () => {
       id: 25,
       name: "Armen Bagdasarov  ",
       sport: "judo",
-      image: "public/picture/legand sportmen/Armen Yuryevich Bagdasarov.jpg",
+      image: "/picture/legand sportmen/Armen Yuryevich Bagdasarov.jpg",
       medals: {
         olympic: { gold: 0, silver: 1, bronze: 0 },
         world: { gold: 0, silver: 0, bronze: 0 }
@@ -596,7 +596,7 @@ const LegendAthletes = () => {
       id: 26,
       name: "Karim Tulaganov  ",
       sport: "boxing",
-      image: "public/picture/legand sportmen/Karim Alimshanovich Tulaganov.webp",
+      image: "/picture/legand sportmen/Karim Alimshanovich Tulaganov.webp",
       medals: {
         olympic: { gold: 0, silver: 0, bronze: 1 },
         world: { gold: 0, silver: 0, bronze: 0 }
@@ -614,7 +614,7 @@ const LegendAthletes = () => {
       id: 27,
       name: "Muhammadkodir Abdullaev ",
       sport: "boxing",
-      image: "public/picture/legand sportmen/Muhammadkodir (“Mahammatkodir”) Abdullaev.jpg",
+      image: "/picture/legand sportmen/Muhammadkodir (“Mahammatkodir”) Abdullaev.jpg",
       medals: {
         olympic: { gold: 1, silver: 0, bronze: 0 },
         world: { gold: 1, silver: 0, bronze: 0 }
@@ -633,7 +633,7 @@ const LegendAthletes = () => {
       id: 28,
       name: "Rustam Saidov  ",
       sport: "boxing",
-      image: "public/picture/legand sportmen/Rustam Saidov (Boks, +91 kg).jpg",
+      image: "/picture/legand sportmen/Rustam Saidov (Boks, +91 kg).jpg",
       medals: {
         olympic: { gold: 0, silver: 0, bronze: 1 },
         world: { gold: 0, silver: 0, bronze: 0 }

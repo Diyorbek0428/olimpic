@@ -81,10 +81,10 @@ const AthleteSection = () => {
         <h2 className="text-3xl font-bold mb-10 text-center text-white">Mashxur sportchilarimiz</h2>
         
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
-          {athletes.map(athlete => (
-            <AthleteCard key={athlete.id} {...athlete} />
-          ))}
-        </div>
+  {athletes.map(athlete => (
+    <AthleteCard key={athlete.id} {...athlete} />
+  ))}
+</div>
         
         <div className="mt-10 text-center">
           <Button

@@ -44,8 +44,8 @@ const ExerciseSection = () => {
         </h1>
         
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-          {exercises.map((exercise) => (
-            <div key={exercise.id} className="bg-white rounded-lg overflow-hidden shadow-lg hover:shadow-xl transition-shadow">
+               {exercises.map((exercise) => (
+               <div key={exercise.id} className="bg-white rounded-lg overflow-hidden shadow-lg hover:shadow-xl transition-shadow">
               <div className="relative h-48">
                 <img
                   src={exercise.thumbnail}
