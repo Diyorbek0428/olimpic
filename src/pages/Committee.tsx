@@ -743,10 +743,10 @@ Representatives of athletes who participated in the Olympic Games and other indi
                       </h3>
                       <p>
                         {language === 'uz' ? 
-                          "O'zbekiston sportchilari Parij Olimpiya o'yinlarida ishtirok etishga tayyorgarlik ko'rmoqda." :
+                          "O'zbekiston sportchilari Parij Olimpiyadasida 13 medalni qo'lga kiritdi." :
                          language === 'ru' ? 
-                          "Спортсмены Узбекистана готовятся к участию в Олимпийских играх в Париже." :
-                          "Uzbekistan athletes are preparing to participate in the Paris Olympic Games."}
+                          "Спортсмены Узбекистана завоевали 13 медалей на Олимпийских играх в Париже." :
+                          "Uzbekistan athletes won 13 medals at the Paris Olympic Games."}
                       </p>
                     </div>
                   </div>
