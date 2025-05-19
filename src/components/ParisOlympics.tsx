@@ -106,9 +106,9 @@ const ParisOlympics = () => {
         };
       } else {
         return {
-          days: 1184,
-          hours: 2,
-          minutes: 0,
+          days: 1158,
+          hours: 15,
+          minutes: 38,
           seconds: 0
         };
       }
