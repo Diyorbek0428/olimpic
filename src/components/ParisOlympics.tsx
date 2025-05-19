@@ -93,7 +93,7 @@ const ParisOlympics = () => {
   // Calculate countdown to Paris Olympics (July 26, 2024)
   useEffect(() => {
     const calculateTimeLeft = () => {
-      const olympicsDate = new Date("2028-07-30T00:00:00+05:00");
+      const olympicsDate = new Date("2028-07-21T00:00:00+05:00");
       const now = new Date();
       const difference = olympicsDate.getTime() - now.getTime();
       
@@ -191,7 +191,7 @@ const ParisOlympics = () => {
                 <span className="text-white font-bold">14</span>
               </div>
               <div>
-                <div className="font-semibold">14.07.2028</div>
+                <div className="font-semibold">21.07.2028</div>
                 <span>{t('openingCeremony', 'home')}</span>
               </div>
             </motion.li>
@@ -203,10 +203,10 @@ const ParisOlympics = () => {
               viewport={{ once: true }}
             >
               <div className="w-12 h-12 bg-primary rounded-full flex items-center justify-center mr-4">
-                <span className="text-white font-bold">16</span>
+                <span className="text-white font-bold">30</span>
               </div>
               <div>
-                <div className="font-semibold">14.07 - 30.07.2028</div>
+                <div className="font-semibold">21.07 - 06.08.2028</div>
                 <span>{t('competitionPeriod', 'home')}</span>
               </div>
             </motion.li>
@@ -218,10 +218,10 @@ const ParisOlympics = () => {
               viewport={{ once: true }}
             >
               <div className="w-12 h-12 bg-primary rounded-full flex items-center justify-center mr-4">
-                <span className="text-white font-bold">30</span>
+                <span className="text-white font-bold">06</span>
               </div>
               <div>
-                <div className="font-semibold">30.07.2028</div>
+                <div className="font-semibold">06.08.2028</div>
                 <span>{t('closingCeremony', 'home')}</span>
               </div>
             </motion.li>
